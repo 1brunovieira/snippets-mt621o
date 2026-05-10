@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://1brunovieira.github.io/snippets-mt621o/sitemap.xml
